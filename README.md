@@ -5,7 +5,7 @@ Leader:
 - De Silva, Krisha Joy
 
 Members:
-- Malinis, Johnbert (98)
-- Monzon, Denys (96)
-- Mayor, Mark Aaron A. (97)
-- Pula, Henry Luis (99)
+- Malinis, Johnbert (88)
+- Monzon, Denys (86)
+- Mayor, Mark Aaron A. (90)
+- Pula, Henry Luis (89)
